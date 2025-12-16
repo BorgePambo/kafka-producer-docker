@@ -12,7 +12,8 @@ Este projeto contém um **Kafka Producer** em Python, dockerizado, que envia dad
     ├── producer.py # Script Python do producer
     ├── requirements.txt # Dependências Python
     └── .gitignore # Arquivos ignorados pelo git
-
+    
+## Aequivo docker-compose.yml
 1. zookeeper
 
     Coordena os brokers Kafka.
