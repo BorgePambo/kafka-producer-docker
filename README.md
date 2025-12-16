@@ -1,7 +1,7 @@
 # Kafka Producer Dockerized]
 
 
-     <img width="1536" height="1024" alt="kafka_docker" src="https://github.com/user-attachments/assets/4513c9e3-724d-4fc6-adfe-b0faf1b92585" />
+<img width="1536" height="1024" alt="kafka_docker" src="https://github.com/user-attachments/assets/4513c9e3-724d-4fc6-adfe-b0faf1b92585" />
 
 
 Este projeto contém um **Kafka Producer** em Python, dockerizado, que envia dados de usuários gerados aleatoriamente para um tópico Kafka.
