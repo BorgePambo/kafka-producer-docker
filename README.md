@@ -6,12 +6,12 @@ Este projeto contém um **Kafka Producer** em Python, dockerizado, que envia dad
 
 ## Estrutura do projeto
 
-KAFKA-APPS-BROKERS/
-├── Dockerfile.producer # Dockerfile do producer
-├── docker-compose.yml # Compose para Kafka, Zookeeper e Producer
-├── producer.py # Script Python do producer
-├── requirements.txt # Dependências Python
-└── .gitignore # Arquivos ignorados pelo git
+    KAFKA-APPS-BROKERS/
+    ├── Dockerfile.producer # Dockerfile do producer
+    ├── docker-compose.yml # Compose para Kafka, Zookeeper e Producer
+    ├── producer.py # Script Python do producer
+    ├── requirements.txt # Dependências Python
+    └── .gitignore # Arquivos ignorados pelo git
 
 
 ## Tecnologias
