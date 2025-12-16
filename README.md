@@ -1,4 +1,5 @@
 # Kafka Producer Dockerized
+![Uploading ChatGPT Image 15 de dez. de 2025, 23_24_08.png…]()
 
 Este projeto contém um **Kafka Producer** em Python, dockerizado, que envia dados de usuários gerados aleatoriamente para um tópico Kafka.
 
